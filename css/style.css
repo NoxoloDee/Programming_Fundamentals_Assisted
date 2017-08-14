@@ -1,0 +1,44 @@
+body, html {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Orbitron', sans-serif;
+  background-color: #0077B8;
+}
+
+h1 {
+  font-size: 40pt;
+  color: #fff;
+}
+
+#a, #b {
+	height: 36px;
+	width: 300px;
+	font-size: 16px;
+	padding: 5px 5px 5px 15px;
+	font-color: #0077B8;
+	border: 2px solid #0077B8;
+	margin: 5px;
+	margin-top: 30px;
+}
+
+.buttons input {
+	width: 100px;
+	height: 30px;
+	margin: 10px;
+	text-align: center;
+	font-size: 14px;
+	padding: 3px;
+	font-family: 'Orbitron', sans-serif;
+	color: #0077B8;
+}
+
+.container {
+	text-align: center;
+	width: 800px;
+	margin: 60px auto;
+	margin-top: 200px;
+}
